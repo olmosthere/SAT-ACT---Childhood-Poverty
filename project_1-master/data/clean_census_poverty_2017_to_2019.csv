@@ -1,0 +1,154 @@
+year,state,child_pov_rate
+2019-01-01,Alabama,21.9
+2018-01-01,Alabama,23.9
+2017-01-01,Alabama,24.4
+2019-01-01,Alaska,13.2
+2018-01-01,Alaska,14.5
+2017-01-01,Alaska,14.5
+2019-01-01,Arizona,19.2
+2018-01-01,Arizona,20.4
+2017-01-01,Arizona,21.0
+2019-01-01,Arkansas,21.7
+2018-01-01,Arkansas,23.8
+2017-01-01,Arkansas,22.5
+2019-01-01,California,15.6
+2018-01-01,California,17.4
+2017-01-01,California,18.1
+2019-01-01,Colorado,11.2
+2018-01-01,Colorado,12.1
+2017-01-01,Colorado,12.2
+2019-01-01,Connecticut,13.5
+2018-01-01,Connecticut,13.8
+2017-01-01,Connecticut,13.0
+2019-01-01,Delaware,16.3
+2018-01-01,Delaware,17.6
+2017-01-01,Delaware,17.7
+2019-01-01,District of Columbia,20.8
+2018-01-01,District of Columbia,24.5
+2017-01-01,District of Columbia,26.2
+2019-01-01,Florida,18.2
+2018-01-01,Florida,20.0
+2017-01-01,Florida,20.6
+2019-01-01,Georgia,19.5
+2018-01-01,Georgia,21.0
+2017-01-01,Georgia,21.5
+2019-01-01,Hawaii,11.2
+2018-01-01,Hawaii,11.8
+2017-01-01,Hawaii,11.9
+2019-01-01,Idaho,12.7
+2018-01-01,Idaho,14.2
+2017-01-01,Idaho,14.8
+2019-01-01,Illinois,15.6
+2018-01-01,Illinois,16.2
+2017-01-01,Illinois,17.0
+2019-01-01,Indiana,15.1
+2018-01-01,Indiana,17.5
+2017-01-01,Indiana,17.8
+2019-01-01,Iowa,12.8
+2018-01-01,Iowa,13.5
+2017-01-01,Iowa,12.6
+2019-01-01,Kansas,14.3
+2018-01-01,Kansas,14.8
+2017-01-01,Kansas,14.7
+2019-01-01,Kentucky,20.9
+2018-01-01,Kentucky,22.3
+2017-01-01,Kentucky,22.1
+2019-01-01,Louisiana,26.4
+2018-01-01,Louisiana,26.5
+2017-01-01,Louisiana,27.7
+2019-01-01,Maine,13.8
+2018-01-01,Maine,14.8
+2017-01-01,Maine,14.2
+2019-01-01,Maryland,12.3
+2018-01-01,Maryland,12.1
+2017-01-01,Maryland,12.4
+2019-01-01,Massachusetts,12.0
+2018-01-01,Massachusetts,12.4
+2017-01-01,Massachusetts,13.5
+2019-01-01,Michigan,17.5
+2018-01-01,Michigan,19.3
+2017-01-01,Michigan,19.6
+2019-01-01,Minnesota,11.0
+2018-01-01,Minnesota,11.5
+2017-01-01,Minnesota,11.7
+2019-01-01,Mississippi,27.6
+2018-01-01,Mississippi,28.2
+2017-01-01,Mississippi,27.6
+2019-01-01,Missouri,17.0
+2018-01-01,Missouri,18.3
+2017-01-01,Missouri,18.5
+2019-01-01,Montana,15.4
+2018-01-01,Montana,16.4
+2017-01-01,Montana,15.9
+2019-01-01,Nebraska,11.5
+2018-01-01,Nebraska,12.9
+2017-01-01,Nebraska,13.7
+2019-01-01,Nevada,17.6
+2018-01-01,Nevada,18.4
+2017-01-01,Nevada,19.2
+2019-01-01,New Hampshire,8.1
+2018-01-01,New Hampshire,10.1
+2017-01-01,New Hampshire,10.0
+2019-01-01,New Jersey,12.2
+2018-01-01,New Jersey,13.5
+2017-01-01,New Jersey,13.8
+2019-01-01,New Mexico,23.5
+2018-01-01,New Mexico,25.3
+2017-01-01,New Mexico,25.9
+2019-01-01,New York,18.2
+2018-01-01,New York,18.8
+2017-01-01,New York,19.9
+2019-01-01,North Carolina,19.3
+2018-01-01,North Carolina,20.2
+2017-01-01,North Carolina,21.0
+2019-01-01,North Dakota,10.9
+2018-01-01,North Dakota,11.0
+2017-01-01,North Dakota,11.4
+2019-01-01,Ohio,18.1
+2018-01-01,Ohio,19.2
+2017-01-01,Ohio,19.8
+2019-01-01,Oklahoma,19.7
+2018-01-01,Oklahoma,21.4
+2017-01-01,Oklahoma,21.3
+2019-01-01,Oregon,13.6
+2018-01-01,Oregon,15.7
+2017-01-01,Oregon,16.5
+2019-01-01,Pennsylvania,16.5
+2018-01-01,Pennsylvania,16.7
+2017-01-01,Pennsylvania,16.9
+2019-01-01,Rhode Island,16.5
+2018-01-01,Rhode Island,18.0
+2017-01-01,Rhode Island,18.2
+2019-01-01,South Carolina,19.9
+2018-01-01,South Carolina,22.1
+2017-01-01,South Carolina,22.3
+2019-01-01,South Dakota,14.9
+2018-01-01,South Dakota,16.1
+2017-01-01,South Dakota,16.3
+2019-01-01,Tennessee,19.4
+2018-01-01,Tennessee,21.8
+2017-01-01,Tennessee,21.1
+2019-01-01,Texas,19.2
+2018-01-01,Texas,21.1
+2017-01-01,Texas,21.0
+2019-01-01,Utah,9.6
+2018-01-01,Utah,9.7
+2017-01-01,Utah,10.6
+2019-01-01,Vermont,10.8
+2018-01-01,Vermont,12.2
+2017-01-01,Vermont,12.8
+2019-01-01,Virginia,13.3
+2018-01-01,Virginia,13.8
+2017-01-01,Virginia,14.0
+2019-01-01,Washington,12.0
+2018-01-01,Washington,12.6
+2017-01-01,Washington,14.2
+2019-01-01,West Virginia,20.8
+2018-01-01,West Virginia,23.2
+2017-01-01,West Virginia,24.4
+2019-01-01,Wisconsin,13.5
+2018-01-01,Wisconsin,14.1
+2017-01-01,Wisconsin,14.6
+2019-01-01,Wyoming,11.7
+2018-01-01,Wyoming,13.1
+2017-01-01,Wyoming,12.9
